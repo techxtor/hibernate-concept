@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d800f4f-3a52-4833-bccd-06db723b8971" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="techxtor-mysql@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2513WWJLYVTdBfU4uEaWMyAkQXh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="java.sql.Driver&#10;mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/techxtor/hibernate/caching/level2/usingquery" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\hibernate-concept\src\main\java\com\techxtor\hibernate\caching\level2\usingquery" />
+      <recent name="D:\Java\hibernate-concept\src\main\java\com\techxtor\hibernate\caching\level1" />
+      <recent name="D:\Java\hibernate-concept\src\main\java\com\techxtor\hibernate\caching" />
+      <recent name="D:\Java\hibernate-concept\src\main\java\com\techxtor\hibernate\fetcheager" />
+      <recent name="D:\Java\hibernate-concept\src\main\java\com\techxtor\hibernate\fetch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (4)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techxtor.hibernate.fetch.App" />
+      <module name="hibernate-concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techxtor.hibernate.fetch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techxtor.hibernate.mappingrelations.App" />
+      <module name="hibernate-concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techxtor.hibernate.mappingrelations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techxtor.hibernate.fetcheager.App" />
+      <module name="hibernate-concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techxtor.hibernate.fetcheager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techxtor.hibernate.caching.level2.usingquery.App" />
+      <module name="hibernate-concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techxtor.hibernate.caching.level2.usingquery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techxtor.hibernate.caching.level2.App" />
+      <module name="hibernate-concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techxtor.hibernate.caching.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techxtor.hibernate.embeddable.App" />
+      <module name="hibernate-concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techxtor.hibernate.embeddable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (4)" />
+        <item itemvalue="Application.App (5)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App (5)" />
+        <item itemvalue="Application.App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d800f4f-3a52-4833-bccd-06db723b8971" name="Default Changelist" comment="" />
+      <created>1644680796467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644680796467</updated>
+      <workItem from="1644680798101" duration="10979000" />
+      <workItem from="1645091288975" duration="1626000" />
+      <workItem from="1645375048876" duration="5545000" />
+      <workItem from="1645380973181" duration="4649000" />
+      <workItem from="1647092074624" duration="2788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Assign_Data_Sources" timestamp="1647093074457">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1647093074457" />
+    <state x="275" y="22" key="#Notifications" timestamp="1645091343749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1645091343749" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1644682437552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1644682437552" />
+    <state x="275" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647093348334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1647093348334" />
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1644694490729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1644694490729" />
+    <state x="315" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1647092376759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="315" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1647092376759" />
+    <state x="456" y="279" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1644682334241">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="279" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.728@0.0.1366.728" timestamp="1644682334241" />
+    <state width="384" height="438" key="DebuggerActiveHint" timestamp="1647093541161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="384" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1647093541161" />
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1647093650678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1647093650678" />
+    <state width="1323" height="214" key="GridCell.Tab.0.center" timestamp="1647093650678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1647093650678" />
+    <state width="1323" height="214" key="GridCell.Tab.0.left" timestamp="1647093650677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1647093650677" />
+    <state width="1323" height="214" key="GridCell.Tab.0.right" timestamp="1647093650678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1647093650678" />
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom" timestamp="1647093650679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1647093650679" />
+    <state width="1323" height="214" key="GridCell.Tab.1.center" timestamp="1647093650678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1647093650678" />
+    <state width="1323" height="214" key="GridCell.Tab.1.left" timestamp="1647093650678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1647093650678" />
+    <state width="1323" height="214" key="GridCell.Tab.1.right" timestamp="1647093650678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1647093650678" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1645377624497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1645377624497" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1647092158889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1647092158889" />
+    <state x="565" y="256" width="326" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1644694971704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="565" y="256" width="326" height="235" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728@0.0.1366.728" timestamp="1644694971704" />
+    <state x="541" y="110" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1645382603391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="541" y="110" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1366.728@0.0.1366.728" timestamp="1645382603391" />
+    <state x="65" y="0" key="new project wizard" timestamp="1645380112480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1645380112480" />
+    <state x="354" y="212" width="665" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1644692754905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="354" y="212" width="665" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1644692754905" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1647092693577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1647092693577" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/techxtor/hibernate/fetcheager/App.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
